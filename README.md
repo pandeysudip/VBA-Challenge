@@ -9,7 +9,7 @@ In this assignment, I used  VBA scripting to analyze real stock market data.
 * [Stock Data](Resources) 
 
 
-## 
+## Following steps were followed for this study:
 
 * Created a script that loop through all the stocks for one year and output the following information:
 
