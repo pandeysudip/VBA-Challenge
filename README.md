@@ -2,7 +2,7 @@
 
 ## Background
 
-In this assignment, I used  VBA scripting to analyze real stock market data. 
+Used VBA scripting to analyze real stock market data. 
 
 
 ### Files
